@@ -9,3 +9,19 @@ Código Hexadecimal gris footer: #3B3B3B
 	font-family: 'Raleway';
 	font-size: 16px;
 }
+
+#bienvenida{
+	background: url('../img/fondo-bienvenida.jpg');
+	background-size: cover;
+	background-position: center;
+	padding: 50px 0;
+}
+
+.logo{
+	text-align: left;
+	padding: 0 30px;
+}
+
+.mensaje{
+	text-align: center;
+}
