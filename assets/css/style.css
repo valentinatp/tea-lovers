@@ -84,3 +84,10 @@ Código Hexadecimal gris footer: #3B3B3B
 .tipo-de-te h2{
 	font-size: 1.5rem;
 }
+/*Disfruta*/
+#disfruta{
+	background: url('../img/disfruta.jpg');
+	background-size: cover;
+	background-position: center;
+	padding: 50px 0;
+}
