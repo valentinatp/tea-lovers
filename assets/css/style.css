@@ -91,3 +91,9 @@ Código Hexadecimal gris footer: #3B3B3B
 	background-position: center;
 	padding: 50px 0;
 }
+/*Footer*/
+footer{
+	background-color: #3B3B3B;
+	padding: 20px 30px;
+	color: white;
+}
