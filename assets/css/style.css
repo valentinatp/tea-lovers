@@ -33,14 +33,16 @@ Código Hexadecimal gris footer: #3B3B3B
 /*Newsletter*/
 .newsletter{
 	text-align: center;
-	padding: 50px;
+	padding: 0px;
+	background-color: #8EC641;
+	height: 400px;
 }
 
 .newsletter button{
 	color: white;
 	background-color: #8EC641;
 	padding: 20px;
-	border: 5px solid red;
+	border: 5px solid white;
 	border-radius: 5px;
 	font-size: 1.5em;
 	font-weight: bolder;
@@ -66,6 +68,7 @@ Código Hexadecimal gris footer: #3B3B3B
 	font-size: 5rem;
 	line-height: 5rem;
 	text-transform: uppercase;
+	color: white;
 }
 /*Tipos de té*/
 .te-diferentes{
@@ -90,6 +93,16 @@ Código Hexadecimal gris footer: #3B3B3B
 	background-size: cover;
 	background-position: center;
 	padding: 50px 0;
+}
+
+.contenido {
+	color: white;
+	padding: 0;
+	margin-bottom: 20px;
+}
+
+.contenido h1 {
+	font-size: 30px;
 }
 /*Footer*/
 footer{
