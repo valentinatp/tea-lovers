@@ -98,11 +98,22 @@ Código Hexadecimal gris footer: #3B3B3B
 .contenido {
 	color: white;
 	padding: 0;
-	margin-bottom: 20px;
+	margin-bottom: 20px auto;
+	display: block;
 }
 
 .contenido h1 {
 	font-size: 30px;
+	border: 0px auto;
+}
+
+.contenido-box {
+	display: inline-block;
+}
+
+.select {
+	background-color: white;
+	border: 5px solid white;
 }
 /*Footer*/
 footer{
